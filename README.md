@@ -46,8 +46,3 @@
 
 ---
 
-## 💬 Contact  
-Want to join the adventure? Reach out:  
-**Email:** [Your Email]  
-**LinkedIn:** [Your LinkedIn]  
-**GitHub:** [Your GitHub]  

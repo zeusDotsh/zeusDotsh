@@ -6,14 +6,14 @@
 
 ---
 
-## 🏹 Current Mission
+## Current Mission
 - Training in **Cybersecurity**  
 - Gaining experience in **Software Development & Networking**  
-- Preparing for the **Pentesting Boss Battle**  
+- Preparing for the **Future**  
 
 ---
 
-## 📜 Achievements Unlocked  
+## Achievements Unlocked  
 | Badge | Title | Description |
 |-------|-------|-------------|
 | 🖥️ | **Linux Explorer** | Mastered basic Linux commands |
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚔️ Skill Tree  
+## Skill Tree  
 > *Active Equipment: Languages & Tools*
 
 <p align="center">
@@ -38,9 +38,8 @@
 
 ---
 
-## 📌 Next Quests  
+## Next Quests  
 - Master **Kali Linux & Ethical Hacking Tools**  
-- Deploy a **Secure Web App**  
 - Earn a **Cybersecurity Certification**  
 - Get hands-on experience in **Penetration Testing**  
 

@@ -1,47 +1,80 @@
-<div align="center">
-  <h1>Cyber Quest: João Silva's Journey</h1>
-  <h3>Level 1 - Aspiring Pentester</h3>
-  <p><i>A cybersecurity student venturing through the digital realm...</i></p>
-</div>
-
----
-
-## Current Mission
-- Training in **Cybersecurity**  
-- Gaining experience in **Software Development & Networking**  
-- Preparing for the **Future**  
-
----
-
-## Achievements Unlocked  
-| Badge | Title | Description |
-|-------|-------|-------------|
-| 🖥️ | **Linux Explorer** | Mastered basic Linux commands |
-| 🔌 | **Networking Novice** | Can configure networks & troubleshoot issues |
-| 🛠️ | **Software Tinkerer** | Dabbled in development with various tools |
-| ☁️ | **Cloud Adventurer** | Explored AWS and containerized with Docker |
-
----
-
-## Skill Tree  
-> *Active Equipment: Languages & Tools*
+# zeusDotsh / README.md
 
 <p align="center">
-  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a>
-  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
-  <a href="https://www.kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/></a>
+  <img src="https://avatars.githubusercontent.com/u/117197402?v=4" alt="Cyber Quest Logo" width="200" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(to right, #007bff, #6610f2); background-clip: padding-box, border-box; background-origin: padding-box, border-box; object-fit: cover;">
 </p>
 
----
-
-## Next Quests  
-- Master **Kali Linux & Ethical Hacking Tools**  
-- Earn a **Cybersecurity Certification**  
-- Get hands-on experience in **Penetration Testing**  
+<h1 align="center">Cyber Quest: João Silva's Journey</h1>
+<p align="center">Level 1 / Aspiring Pentester Progress: [████░░░░░░] 40%</p>
+<p align="center">A cybersecurity student embarking on a structured journey through the digital realm, focusing on foundational skills and practical application.</p>
 
 ---
 
+## Current Objectives
+
+* **Core Cybersecurity Training:** Focused study in network security, system administration, and ethical hacking principles.
+* **Software Development and Networking Proficiency:** Gaining hands-on experience in software development methodologies and network architecture.
+* **Strategic Preparation for Advanced Roles:** Building a strong foundation to pursue advanced certifications and roles in penetration testing and security analysis.
+
+---
+
+## Technical Achievements and Competencies
+
+| Badge | Title | Description | Core Competencies |
+|---|---|---|---|
+| <img src="https://img.shields.io/badge/Linux-Explorer-green?style=flat-square&logo=linux" alt="Linux Explorer Badge" width="100"> | Linux Explorer | Mastered basic Linux commands | Shell scripting, file system navigation, command-line utilities. |
+| <img src="https://img.shields.io/badge/Networking-Novice-blue?style=flat-square&logo=network" alt="Networking Novice Badge" width="100"> | Networking Novice | Can configure networks & troubleshoot issues | TCP/IP fundamentals, subnetting, basic routing and switching. |
+| <img src="https://img.shields.io/badge/Software-Tinkerer-yellow?style=flat-square&logo=code" alt="Software Tinkerer Badge" width="100"> | Software Tinkerer | Dabbled in development with various tools | Basic programming in Python and JavaScript, version control with Git. |
+| <img src="https://img.shields.io/badge/Cloud-Adventurer-orange?style=flat-square&logo=cloud" alt="Cloud Adventurer Badge" width="100"> | Cloud Adventurer | Explored AWS and containerized with Docker | AWS EC2, S3, Docker containerization, basic Kubernetes orchestration. |
+
+---
+
+## Skill Portfolio
+
+### Active Tools and Technologies 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes Badge">
+  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass" alt="SCSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=jest" alt="Jest Badge">
+  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" alt="Postman Badge">
+  <img src="https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=swagger" alt="Swagger Badge">
+</p>
+
+### Areas of basic or intermediate knowledge
+
+* **Operating Systems:** Linux (Ubuntu, KaliLinux), Windows Server.
+* **Programming Languages:** Python (basic scripting, web development), JavaScript (front-end development), Node.js (basic back-end).
+* **Web Technologies:** HTML, CSS, SCSS, JavaScript.
+* **Databases:** MySQL.
+* **Containerization and Orchestration:** Docker, Kubernetes (basic).
+* **Testing and API Tools:** Jest, Postman, Swagger.
+* **Version Control:** Git, GitHub.
+
+---
+
+## Strategic Development Plan
+
+### Immediate Objectives
+
+* **Advanced Ethical Hacking Skills:** Deep dive into Kali Linux, penetration testing methodologies, and vulnerability assessment.
+* **Industry Certifications:** Pursue CompTIA Security+, CEH, or equivalent certifications to validate skills.
+* **Practical Penetration Testing Experience:** Engage in CTFs and build a personal lab for hands-on experience.
+
+### Long-Term Vision
+
+* **Specialization in Penetration Testing:** Develop expertise in specific areas like web application security, network penetration testing, or mobile security.
+* **Continuous Learning and Skill Enhancement:** Stay updated with the latest security trends and technologies.
+* **Contribution to the Cybersecurity Community:** Share knowledge through blogs, open-source projects, or community involvement.
+
+---
+
+<p align="center">Location: Aveiro District, Portugal</p>

@@ -1,15 +1,9 @@
 # zeusDotsh / README.md
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/117197402?v=4" alt="Cyber Quest Logo" width="200" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(to right, #007bff, #6610f2); background-clip: padding-box, border-box; background-origin: padding-box, border-box; object-fit: cover;">
+  <img src="https://i.pinimg.com/736x/1d/4f/32/1d4f32978a85f67ba6ee733a6d99fecc.jpg" alt="Cyber Quest Logo" width="800" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(to right, #007bff, #6610f2); background-clip: padding-box, border-box; background-origin: padding-box, border-box; object-fit: cover;">
 </p>
-
-<h1 align="center">Cyber Quest: João Silva's Journey</h1>
-
 <p align="center">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeusDotsh&show_icons=true&theme=custom&bg_color=151521&text_color=FFFFFF&icon_color=FF6AC1&border_color=151521" alt="Your GitHub Stats" width="50%" />
-</p>
 </p>
 
 ---

@@ -29,10 +29,14 @@
 ---
 
 ## Skill Portfolio
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<br/><br/>
 
 ### Active Tools and Technologies 
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" alt="Git Badge">
   <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker Badge">
   <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes Badge">
@@ -46,6 +50,7 @@
   <img src="https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=jest" alt="Jest Badge">
   <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" alt="Postman Badge">
   <img src="https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=swagger" alt="Swagger Badge">
+  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
 
 ### Areas of basic or intermediate knowledge
@@ -57,13 +62,6 @@
 * **Containerization and Orchestration:** Docker, Kubernetes (basic).
 * **Testing and API Tools:** Jest, Postman, Swagger.
 * **Version Control:** Git, GitHub.
-
-<details>
-  <summary><h2> <img align="center" src="https://github.com/zeusDotsh/zeusDotsh/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeusDotsh&theme=tokyo-night" alt="Activity Graph">
-  </div>
-</details>
 
 ## Strategic Development Plan
 

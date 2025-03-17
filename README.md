@@ -58,7 +58,12 @@
 * **Testing and API Tools:** Jest, Postman, Swagger.
 * **Version Control:** Git, GitHub.
 
----
+<details>
+  <summary><h2> <img align="center" src="https://github.com/zeusDotsh/zeusDotsh/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeusDotsh&theme=tokyo-night" alt="Activity Graph">
+  </div>
+</details>
 
 ## Strategic Development Plan
 

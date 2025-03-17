@@ -5,8 +5,12 @@
 </p>
 
 <h1 align="center">Cyber Quest: João Silva's Journey</h1>
-<p align="center">Level 1 / Aspiring Pentester Progress: [████░░░░░░] 40%</p>
-<p align="center">A cybersecurity student embarking on a structured journey through the digital realm, focusing on foundational skills and practical application.</p>
+
+<p align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeusDotsh&show_icons=true&theme=custom&bg_color=151521&text_color=FFFFFF&icon_color=FF6AC1&border_color=151521" alt="Your GitHub Stats" width="50%" />
+</p>
+</p>
 
 ---
 

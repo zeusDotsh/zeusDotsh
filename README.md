@@ -28,11 +28,6 @@
 
 ---
 
-## Skill Portfolio
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
-
 ### Active Tools and Technologies 
 
 <p align="center">

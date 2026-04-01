@@ -62,21 +62,6 @@
 * **Containerization and Orchestration:** Docker, Kubernetes (basic).
 * **Testing and API Tools:** Jest, Postman, Swagger.
 * **Version Control:** Git, GitHub.
-
-## Strategic Development Plan
-
-### Immediate Objectives
-
-* **Advanced Ethical Hacking Skills:** Deep dive into Kali Linux, penetration testing methodologies, and vulnerability assessment.
-* **Industry Certifications:** Pursue CompTIA Security+, CEH, or equivalent certifications to validate skills.
-* **Practical Penetration Testing Experience:** Engage in CTFs and build a personal lab for hands-on experience.
-
-### Long-Term Vision
-
-* **Specialization in Penetration Testing:** Develop expertise in specific areas like web application security, network penetration testing, or mobile security.
-* **Continuous Learning and Skill Enhancement:** Stay updated with the latest security trends and technologies.
-* **Contribution to the Cybersecurity Community:** Share knowledge through blogs, open-source projects, or community involvement.
-
 ---
 
 <p align="center">Location: Aveiro District, Portugal</p>

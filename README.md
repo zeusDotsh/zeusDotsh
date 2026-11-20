@@ -12,7 +12,7 @@
 <!-- TYPING SVG ANIMADO -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=75&lines=zeusDotsh%40purple-node+%3A%3A+weird_cache_loaded;%3E%3E+rebuilding+css+that+github+deleted...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+84%25;note%3A+too+much+purple+in+the+framebuffer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=75&lines=zeusDotsh%40purple-node+%3A%3A+weird_cache_loaded;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,15 +24,7 @@
   <img src="https://img.shields.io/badge/COFFEE-LOW-1a0b2e?style=for-the-badge&labelColor=9d4edd&logo=dependabot&logoColor=white" alt="Coffee">
 </p>
 
-<pre>
-- [ERR_0x000F4] border-radius: 50% ignored by GitHub sanitizer
-! [WARN] purple static leaking into README layout
-+ [OK] WEIRD_MODE :: ACTIVE
-</pre>
-
----
-
-### `⚡` A̶c̶t̶i̶v̶e̶ ̶T̶o̶o̶l̶s̶ ̶a̶n̶d̶ ̶T̶e̶c̶h̶n̶o̶l̶o̶g̶i̶e̶s̶ `// [STACK_DUMP]`
+### `⚡` 
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E2%9A%A1-0d0617?style=for-the-badge&color=9d4edd" alt="Divider"/>
@@ -54,7 +46,7 @@
 
 ---
 
-### `🌀` A̶r̶e̶a̶s̶ ̶o̶f̶ ̶b̶a̶s̶i̶c̶ ̶o̶r̶ ̶i̶n̶t̶e̶r̶m̶e̶d̶i̶a̶t̶e̶ ̶k̶n̶o̶w̶l̶e̶d̶g̶e̶ `// [INDEX_0x00..0x07]`
+### `🌀`
 
 > `zeusDotsh@purple-node:~$ cat ./areas.list`
 
@@ -66,16 +58,9 @@
 * `0x06` **[Testing & API Tools]:** Jest, Postman, Swagger.
 * `0x07` **[Version Control]:** Git, GitHub.
 
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║  [!] WEIRD_BUFFER :: 01011010 01000101 01010101 01010011          ║
-║  >>> ROUTE: [LOCAL_LOOP] ---> [AVEIRO_PT] ---> [PURPLE_STATIC]     ║
-║  >>> MODE: N̴O̴_̴F̴I̴L̴T̴E̴R̴ // O̴V̴E̴R̴C̴L̴O̴C̴K̴ // S̴T̴A̴T̴I̴C̴_̴R̴A̴I̴N̴                 ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
 
 <p align="center">
-  <code>📍 Location: Aveiro District, Portugal // [40.6405° N, 8.6538° W] // weird_mode</code>
+  <code>📍 Location: Aveiro District, Portugal</code>
 </p>
 
 <!-- FOOTER GLITCH WAVE -->

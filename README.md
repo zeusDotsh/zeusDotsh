@@ -4,16 +4,6 @@
 <p align="center">
 </p>
 
----
-
-## Current Objectives
-
-* **Core Cybersecurity Training:** Focused study in network security, system administration, and ethical hacking principles.
-* **Software Development and Networking Proficiency:** Gaining hands-on experience in software development methodologies and network architecture.
-* **Strategic Preparation for Advanced Roles:** Building a strong foundation to pursue advanced certifications and roles in penetration testing and security analysis.
-  
-  <br>
-![](https://komarev.com/ghpvc/?username=zeusDotsh&style=for-the-badge)
 
 
 ### Active Tools and Technologies 

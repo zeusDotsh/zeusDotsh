@@ -1,40 +1,84 @@
+<!-- HEADER GLITCH BANNER -->
+<!-- HEADER GLITCH BANNER -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/1d/4f/32/1d4f32978a85f67ba6ee733a6d99fecc.jpg" alt="Cyber Quest Logo" width="800" style="border-radius: 50%; border: 4px solid transparent; background: linear-gradient(to right, #007bff, #6610f2); background-clip: padding-box, border-box; background-origin: padding-box, border-box; object-fit: cover;">
-</p>
-<p align="center">
-</p>
-
-
-
-### Active Tools and Technologies 
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" alt="Git Badge">
-  <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker Badge">
-  <img src="https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes" alt="Kubernetes Badge">
-  <img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5" alt="HTML Badge">
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" alt="CSS Badge">
-  <img src="https://img.shields.io/badge/SCSS-pink?style=for-the-badge&logo=sass" alt="SCSS Badge">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" alt="MySQL Badge">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" alt="Python Badge">
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" alt="Node.js Badge">
-  <img src="https://img.shields.io/badge/Jest-red?style=for-the-badge&logo=jest" alt="Jest Badge">
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman" alt="Postman Badge">
-  <img src="https://img.shields.io/badge/Swagger-blue?style=for-the-badge&logo=swagger" alt="Swagger Badge">
-  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0617,50:6610f2,100:9d4edd&height=120&section=header&text=zeusDotsh&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%" />
 </p>
 
-### Areas of basic or intermediate knowledge
+<!-- IMAGEM PRINCIPAL -->
+<p align="center">
+  <img src="https://i.pinimg.com/736x/1d/4f/32/1d4f32978a85f67ba6ee733a6d99fecc.jpg" alt="Cyber Quest Logo" width="720">
+</p>
 
-* **Operating Systems:** Linux (Ubuntu, KaliLinux), Windows Server.
-* **Programming Languages:** Python (basic scripting, web development), JavaScript (front-end development), Node.js (basic back-end).
-* **Web Technologies:** HTML, CSS, SCSS, JavaScript.
-* **Databases:** MySQL.
-* **Containerization and Orchestration:** Docker, Kubernetes (basic).
-* **Testing and API Tools:** Jest, Postman, Swagger.
-* **Version Control:** Git, GitHub.
+<!-- TYPING SVG ANIMADO -->
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2200&pause=500&color=9D4EDD&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=75&lines=zeusDotsh%40purple-node+%3A%3A+weird_cache_loaded;%3E%3E+rebuilding+css+that+github+deleted...+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+84%25;note%3A+too+much+purple+in+the+framebuffer" alt="Typing SVG" />
+  </a>
+</p>
+
+<!-- STATUS BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/CACHE-STALE-9d4edd?style=for-the-badge&labelColor=0d0617&logo=gnubash&logoColor=c77dff" alt="Cache">
+  <img src="https://img.shields.io/badge/CLOCK-OVERCLOCKED-7209b7?style=for-the-badge&labelColor=0d0617&logo=hackthebox&logoColor=e0aaff" alt="Clock">
+  <img src="https://img.shields.io/badge/LAYOUT-GLITCHED-6610f2?style=for-the-badge&labelColor=0d0617&logo=css3&logoColor=white" alt="Layout">
+  <img src="https://img.shields.io/badge/COFFEE-LOW-1a0b2e?style=for-the-badge&labelColor=9d4edd&logo=dependabot&logoColor=white" alt="Coffee">
+</p>
+
+<pre>
+- [ERR_0x000F4] border-radius: 50% ignored by GitHub sanitizer
+! [WARN] purple static leaking into README layout
++ [OK] WEIRD_MODE :: ACTIVE
+</pre>
+
 ---
 
-<p align="center">Location: Aveiro District, Portugal</p>
+### `⚡` A̶c̶t̶i̶v̶e̶ ̶T̶o̶o̶l̶s̶ ̶a̶n̶d̶ ̶T̶e̶c̶h̶n̶o̶l̶o̶g̶i̶e̶s̶ `// [STACK_DUMP]`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%9A%A1-0d0617?style=for-the-badge&color=9d4edd" alt="Divider"/>
+  <img src="https://img.shields.io/badge/Git-1a0b2e?style=for-the-badge&logo=git&logoColor=c77dff" alt="Git Badge">
+  <img src="https://img.shields.io/badge/Docker-1a0b2e?style=for-the-badge&logo=docker&logoColor=9d4edd" alt="Docker Badge">
+  <img src="https://img.shields.io/badge/Kubernetes-1a0b2e?style=for-the-badge&logo=kubernetes&logoColor=e0aaff" alt="Kubernetes Badge">
+  <img src="https://img.shields.io/badge/HTML-1a0b2e?style=for-the-badge&logo=html5&logoColor=ff70a6" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/CSS-1a0b2e?style=for-the-badge&logo=css3&logoColor=9d4edd" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/SCSS-1a0b2e?style=for-the-badge&logo=sass&logoColor=ff70a6" alt="SCSS Badge">
+  <img src="https://img.shields.io/badge/JavaScript-1a0b2e?style=for-the-badge&logo=javascript&logoColor=e0aaff" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/MySQL-1a0b2e?style=for-the-badge&logo=mysql&logoColor=9d4edd" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/Python-1a0b2e?style=for-the-badge&logo=python&logoColor=c77dff" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Node.js-1a0b2e?style=for-the-badge&logo=node.js&logoColor=00f5d4" alt="Node.js Badge">
+  <img src="https://img.shields.io/badge/Jest-1a0b2e?style=for-the-badge&logo=jest&logoColor=ff70a6" alt="Jest Badge">
+  <img src="https://img.shields.io/badge/Postman-1a0b2e?style=for-the-badge&logo=postman&logoColor=c77dff" alt="Postman Badge">
+  <img src="https://img.shields.io/badge/Swagger-1a0b2e?style=for-the-badge&logo=swagger&logoColor=00f5d4" alt="Swagger Badge">
+  <img src="https://img.shields.io/badge/%E2%9A%A1-0d0617?style=for-the-badge&color=9d4edd" alt="Divider"/>
+</p>
+
+---
+
+### `🌀` A̶r̶e̶a̶s̶ ̶o̶f̶ ̶b̶a̶s̶i̶c̶ ̶o̶r̶ ̶i̶n̶t̶e̶r̶m̶e̶d̶i̶a̶t̶e̶ ̶k̶n̶o̶w̶l̶e̶d̶g̶e̶ `// [INDEX_0x00..0x07]`
+
+> `zeusDotsh@purple-node:~$ cat ./areas.list`
+
+* `0x01` **[Operating Systems]:** Linux (Ubuntu, KaliLinux), Windows Server.
+* `0x02` **[Programming Languages]:** Python (basic scripting, web development), JavaScript (front-end development), Node.js (basic back-end).
+* `0x03` **[Web Technologies]:** HTML, CSS, SCSS, JavaScript.
+* `0x04` **[Databases]:** MySQL.
+* `0x05` **[Containerization & Orchestration]:** Docker, Kubernetes (basic).
+* `0x06` **[Testing & API Tools]:** Jest, Postman, Swagger.
+* `0x07` **[Version Control]:** Git, GitHub.
+
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║  [!] WEIRD_BUFFER :: 01011010 01000101 01010101 01010011          ║
+║  >>> ROUTE: [LOCAL_LOOP] ---> [AVEIRO_PT] ---> [PURPLE_STATIC]     ║
+║  >>> MODE: N̴O̴_̴F̴I̴L̴T̴E̴R̴ // O̴V̴E̴R̴C̴L̴O̴C̴K̴ // S̴T̴A̴T̴I̴C̴_̴R̴A̴I̴N̴                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
+
+<p align="center">
+  <code>📍 Location: Aveiro District, Portugal // [40.6405° N, 8.6538° W] // weird_mode</code>
+</p>
+
+<!-- FOOTER GLITCH WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:6610f2,100:0d0617&height=90&section=footer" width="100%" />
+</p>

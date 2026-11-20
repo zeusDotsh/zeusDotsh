@@ -15,18 +15,6 @@
   <br>
 ![](https://komarev.com/ghpvc/?username=zeusDotsh&style=for-the-badge)
 
----
-
-## Technical Achievements and Competencies
-
-| Badge | Title | Description | Core Competencies |
-|---|---|---|---|
-| <img src="https://img.shields.io/badge/Linux-Explorer-green?style=flat-square&logo=linux" alt="Linux Explorer Badge" width="100"> | Linux Explorer | Mastered basic Linux commands | Shell scripting, file system navigation, command-line utilities. |
-| <img src="https://img.shields.io/badge/Networking-Novice-blue?style=flat-square&logo=network" alt="Networking Novice Badge" width="100"> | Networking Novice | Can configure networks & troubleshoot issues | TCP/IP fundamentals, subnetting, basic routing and switching. |
-| <img src="https://img.shields.io/badge/Software-Tinkerer-yellow?style=flat-square&logo=code" alt="Software Tinkerer Badge" width="100"> | Software Tinkerer | Dabbled in development with various tools | Basic programming in Python and JavaScript, version control with Git. |
-| <img src="https://img.shields.io/badge/Cloud-Adventurer-orange?style=flat-square&logo=cloud" alt="Cloud Adventurer Badge" width="100"> | Cloud Adventurer | Explored AWS and containerized with Docker | AWS EC2, S3, Docker containerization, basic Kubernetes orchestration. |
-
----
 
 ### Active Tools and Technologies 
 
